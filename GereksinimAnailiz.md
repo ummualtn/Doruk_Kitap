@@ -1,0 +1,25 @@
+
+
+
+## Gereksinimler
+1-Giriş yap (Öğretmen,Öğrenci, Misafir Girişi) (Taylan Karay)
+2-Üye Ol (Taylan Karay)
+3-Favori ekle (Taylan Karay)
+4-Ürün güncelleme (Taylan Karay)
+5-Ürün silme (Taylan Karay)
+6-Arama Butonu (Taylan Karay)
+7-Ana Sınıfı Kitapları (Taylan Karay)
+8-İlk Okul Kitapları (Hakime Ümmü Altın)
+9-Okul Öncesi Kitapları (Hakime Ümmü Altın)
+10-Orta Okul Kitapları (Hakime Ümmü Altın)
+11-Hobi Oyunları (Hakime Ümmü Altın)
+12-Okuma Kitapları (Hakime Ümmü Altın)
+13-Deneme Sınavları(Hakime Ümmü Altın) 
+14-Sözcükler Ansiklopedi (Hakime Ümmü Altın)
+15-Favori Listesi (Ceren Ögün)
+16-Sepet (Ceren Ögün)
+17-Stok Durumu (Ceren Ögün)
+18-Filtreleme (Ceren Ögün)
+19-Fiyat sıralaması (Ceren Ögün)
+20-İletişim (Ceren Ögün)
+21-Şifremi unuttum (Ceren Ögün)

@@ -1,6 +1,5 @@
-1. Giriş Yap (Öğretmen, Öğrenci, Misafir Girişi)
-Kullanıcıların platforma giriş yapmasını sağlayan kimlik doğrulama sürecidir. Kullanıcı tipi farklı olduğu için her biri için belirli erişim yetkileri tanımlanır:
-
+1. Giriş Yap (Öğretmen, Öğrenci, Misafir Girişi)   
+Kullanıcıların platforma giriş yapmasını sağlayan kimlik doğrulama sürecidir. Kullanıcı tipi farklı olduğu için her biri için belirli erişim yetkileri tanımlanır:  
 Öğretmen Girişi: Öğretmenler, ders içerikleri ekleme ve yönetme gibi ek yetkilere sahip olabilir.
 Öğrenci Girişi: Öğrenciler, dersleri görüntüleyebilir ve belirlenen içeriklere erişebilir.
 Misafir Girişi: Üyelik oluşturmak istemeyen kullanıcılar için sınırlı erişim sunar.      

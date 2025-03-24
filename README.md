@@ -11,4 +11,4 @@ Proje Kategorisi: Online Kitap Satış Platformu / E-Ticaret
 
 **Proje Ekibi:** Hakime Ümmü ALTIN, Ceren ÖGÜN, Taylan KARAY
 
-1. [Gereksinim Analizi](Gereksinim-Analizi.md)
+1. [Gereksinim Analizi](GereksinimAnailiz.md)

@@ -22,11 +22,11 @@
 18-Filtreleme (Ceren Ögün)  
 19-Fiyat sıralaması (Ceren Ögün)  
 20-İletişim Formu(Ceren Ögün)  
-21-Şifremi unuttum (Ceren Ögün)
-22-Kullanıcı Doğrulama
-23-Kargoya Verme
-24-Güvenli Ödeme
-25-Ödeme yapma
-26-Ürün Satın Alma
-27-Ürün Ekleme
+21-Şifremi unuttum (Ceren Ögün)     
+22-Kullanıcı Doğrulama        
+23-Kargoya Verme            
+24-Güvenli Ödeme            
+25-Ödeme yapma            
+26-Ürün Satın Alma              
+27-Ürün Ekleme               
 

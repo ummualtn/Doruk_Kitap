@@ -15,7 +15,7 @@
 11-Hobi Oyunları (Hakime Ümmü Altın)  
 12-Okuma Kitapları (Hakime Ümmü Altın)  
 13-Deneme Sınavları(Hakime Ümmü Altın)   
-14-Sözcükler Ansiklopedi (Hakime Ümmü Altın)  
+14-Sözlükler Ansiklopedi (Hakime Ümmü Altın)  
 15-Favori Listesi (Ceren Ögün)  
 16-Sepet (Ceren Ögün)  
 17-Stok Durumu (Ceren Ögün)  

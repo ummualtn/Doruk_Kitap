@@ -6,7 +6,7 @@ Kitap dünyasının kapılarını dijital ortama taşıyan Doruk Kitap, okurlar�
 
 Proje Kategorisi: Online Kitap Satış Platformu / E-Ticaret
 
-**Referans Uygulama:** [dr.com](dr.com)
+**Referans Uygulama:** [dr.com]([dr.com](https://www.dr.com.tr))
 
 **Grup Adı:** TriGo
 

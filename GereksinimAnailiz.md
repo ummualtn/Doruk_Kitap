@@ -2,7 +2,7 @@
 
 
 ## Gereksinimler
-1-Giriş yap (Öğretmen,Öğrenci, Misafir Girişi) (Taylan Karay)   
+1-Giriş yap (Taylan Karay)   
 2-Üye Ol (Taylan Karay)   
 3-Favori ekle (Taylan Karay)  
 4-Ürün güncelleme (Taylan Karay)  
@@ -16,10 +16,17 @@
 12-Okuma Kitapları (Hakime Ümmü Altın)  
 13-Deneme Sınavları(Hakime Ümmü Altın)   
 14-Sözlükler Ansiklopedi (Hakime Ümmü Altın)  
-15-Favori Listesi (Ceren Ögün)  
-16-Sepet (Ceren Ögün)  
+15-Favori Görüntüle (Ceren Ögün)  
+16-Sepete ekle(Ceren Ögün)  
 17-Stok Durumu (Ceren Ögün)  
 18-Filtreleme (Ceren Ögün)  
 19-Fiyat sıralaması (Ceren Ögün)  
-20-İletişim (Ceren Ögün)  
-21-Şifremi unuttum (Ceren Ögün)  
+20-İletişim Formu(Ceren Ögün)  
+21-Şifremi unuttum (Ceren Ögün)
+22-Kullanıcı Doğrulama
+23-Kargoya Verme
+24-Güvenli Ödeme
+25-Ödeme yapma
+26-Ürün Satın Alma
+27-Ürün Ekleme
+

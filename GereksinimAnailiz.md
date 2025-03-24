@@ -19,14 +19,13 @@
 15-Favori Görüntüle (Ceren Ögün)  
 16-Sepete ekle(Ceren Ögün)  
 17-Stok Durumu (Ceren Ögün)  
-18-Filtreleme (Ceren Ögün)  
-19-Fiyat sıralaması (Ceren Ögün)  
-20-İletişim Formu(Ceren Ögün)  
-21-Şifremi unuttum (Ceren Ögün)     
-22-Kullanıcı Doğrulama        
-23-Kargoya Verme            
-24-Güvenli Ödeme            
-25-Ödeme yapma            
-26-Ürün Satın Alma              
-27-Ürün Ekleme               
+18-Filtreleme (Ceren Ögün)    
+19-İletişim Formu(Ceren Ögün)  
+20-Şifremi unuttum (Ceren Ögün)     
+21-Kullanıcı Doğrulama        
+22-Kargoya Verme            
+23-Güvenli Ödeme            
+24-Ödeme yapma            
+25-Ürün Satın Alma              
+26-Ürün Ekleme               
 

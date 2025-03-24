@@ -6,3 +6,9 @@ Kitap dünyasının kapılarını dijital ortama taşıyan Doruk Kitap, okurlar�
 Proje Kategorisi: Online Kitap Satış Platformu / E-Ticaret
 
 **Referans Uygulama:** [dr.com](dr.com)
+
+**Grup Adı:** TriGo
+
+**Proje Ekibi:** Hakime Ümmü ALTIN, Ceren ÖGÜN, Taylan KARAY
+
+1. [Gereksinim Analizi](Gereksinim-Analizi.md)

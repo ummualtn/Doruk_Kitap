@@ -27,5 +27,6 @@
 23-Güvenli Ödeme            
 24-Ödeme yapma            
 25-Ürün Satın Alma              
-26-Ürün Ekleme               
+26-Ürün Ekleme            
+27-Ürün Detaylarını Görüntüleme
 

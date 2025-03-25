@@ -28,7 +28,7 @@
 24-Sepeti Görüntüle                
 25-Ürün Satın Alma              
 26-Ürün Ekleme            
-27-Ürün Detaylarını Görüntüle 
+27-Ürün Detaylarını Görüntüle         
 28-Favori Ürün Sil      
 29-Sepetten Ürün Sil    
 30-Kredi Kartı ile Ödeme  

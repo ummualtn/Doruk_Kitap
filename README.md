@@ -10,7 +10,10 @@ Proje Kategorisi: Online Kitap Satış Platformu / E-Ticaret
 
 **Grup Adı:** TriGo
 
-**Proje Ekibi:** Hakime Ümmü ALTIN, Ceren ÖGÜN, Taylan KARAY
+**Proje Ekibi:** 
+-Hakime Ümmü ALTIN 
+-Ceren ÖGÜN 
+-Taylan KARAY
 
 1. [Gereksinim Analizi](GereksinimAnailiz.md)
 2. [Durum Diyagramı]

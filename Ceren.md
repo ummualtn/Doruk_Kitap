@@ -1,8 +1,10 @@
-Favori listesi, kullanıcıların ilgi duydukları veya daha sonra incelemek istedikleri ürünleri kaydetmelerine olanak tanıyan bir özelliktir. Bu liste, kullanıcı deneyimini iyileştirmek ve kullanıcıların tekrar ziyaret etmelerini teşvik etmek amacıyla geliştirilmiştir.        
-Sepet, e-ticaret sitelerinde kullanıcıların satın almak istedikleri ürünleri geçici olarak saklamalarını sağlayan bir özelliktir. Kullanıcıların alışveriş deneyimini kolaylaştıran ve tamamlamalarına yardımcı olan bu sistem, kullanıcı dostu ve esnek bir yapıya sahip olmalıdır.      
-Stok durumu, e-ticaret sitelerinde ürünlerin mevcut olup olmadığını takip eden bir sistemdir. Kullanıcılara ürünlerin anlık erişilebilirliği hakkında bilgi verir ve tükenen ürünlerin satışının önüne geçerek kullanıcı deneyimini iyileştirir.       
-Filtreleme, kullanıcıların aradıkları ürünlere daha hızlı ve kolay bir şekilde ulaşmasını sağlayan bir sistemdir. Büyük ürün kataloglarına sahip e-ticaret sitelerinde kullanıcı deneyimini iyileştirerek alışveriş sürecini hızlandırır.       
-Fiyat sıralaması, kullanıcıların ürünleri en düşükten en yükseğe veya en yüksekten en düşüğe sıralamasına olanak tanıyan bir özelliktir. Kullanıcıların bütçelerine uygun ürünleri hızlıca bulmalarını sağlar ve alışveriş deneyimini iyileştirir.       
-İletişim sayfası, kullanıcıların site yönetimiyle doğrudan bağlantıya geçmelerini sağlayan bir bölümdür. Kullanıcılar bu sayfa aracılığıyla sorularını, şikayetlerini veya geri bildirimlerini iletebilirler. Müşteri memnuniyetini artırmak ve kullanıcıların siteye olan güvenini sağlamak için etkili bir iletişim sistemi oluşturulmalıdır.        
-"Şifremi unuttum" özelliği, kullanıcıların hesaplarına erişimlerini kaybettiklerinde yeni bir şifre oluşturmalarına olanak tanır. Bu sistem, kullanıcı deneyimi ve güvenliği açısından kritik bir bileşendir.
-
+22-Hobi Oyunları:kullanıcıların hobi ve eğlence amaçlı oyunları görüntüleyip satın almasını sağlar.
+23-Okuma Kitapları:Farklı türlerde okuma kitaplarının listelendiği kategori
+24-Deneme Sınavları:Öğrencilerin sınavlara hazırlanmasını destekleyen deneme testlerinin bulunduğu kategori
+25-Sözlükler ve Ansiklopediler:kullanıcıların çeşitli sözlük ve ansiklopedilere erişebileceği kategori
+26-Şiparişi Görüntüle:Kullanıcıların verdikleri siparişleri detaylı olarak inceleyebilmesini sağlar
+27-Ürün Satın Alma:Kullanıcıların sepetlerindeki ürünleri ödeme yaparak satın almasını sağlar
+28-Kredi kartı ile ödeme:Kullanıcıların alışverişlerini kredi kartı kullanarak tamamlamasını sağlar
+29-Güvenli ödeme:kullanıcıların ödeme işlemlerinin güvenli bir şekilde gerçeklesmesini saglar
+30-Kargoya verme:sipariş edilen ürünlerin hazırlanıp kargoya teslim edilmesini sağlar
+31-İletişim Formu:kullanıcıların site yönetimiyle iletişime geçmesini sağlayan bir form sunar

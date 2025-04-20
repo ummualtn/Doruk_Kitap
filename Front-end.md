@@ -1,4 +1,4 @@
-[Sitemizin domain adresi:](https://doruk-kitap.netlify.app)
+Sitemizin domain adresi: https://doruk-kitap.netlify.app
 
 ## Taylan Karay Frontend
 

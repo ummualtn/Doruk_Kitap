@@ -1,4 +1,4 @@
-Sitemizin domain adresi: https://doruk-kitap.netlify.app
+Sitemizin domain adresi: https://doruk-kitap.netlify.app                    
 Yönetici panel   adresi: https://doruk-kitap.netlify.app/yonetici
 
 ## Taylan Karay Frontend

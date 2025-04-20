@@ -14,7 +14,7 @@ Kitap dünyasının kapılarını dijital ortama taşıyan Doruk Kitap, okurlar�
 
 **Uygulama Adresi:** 
 [dorukkitap.com](https://doruk-kitap.netlify.app)
-(https://doruk-kitap.netlify.app/yonetici)
+https://doruk-kitap.netlify.app/yonetici
 
 1. [Gereksinim Analizi](GereksinimAnailiz.md)
 2. [Durum Diyagramı](DurumDiyagramı.png)

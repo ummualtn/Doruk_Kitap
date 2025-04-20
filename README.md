@@ -15,6 +15,6 @@ Kitap dünyasının kapılarını dijital ortama taşıyan Doruk Kitap, okurlar�
 1. [Gereksinim Analizi](GereksinimAnailiz.md)
 2. [Durum Diyagramı](DurumDiyagramı.png)
 3. [Durum Senaryoları](DurumSenaryoları.md)
-4. [Front-End]
+4. [Front-End](Front-end.md)
 5. [Back-End]
 6. [Video Sunum]

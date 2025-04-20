@@ -1,0 +1,23 @@
+# node_modules klasörünü dahil etme
+node_modules/
+
+# Build ve dağıtım klasörleri
+dist/
+build/
+
+# Ortam değişkenleri
+.env
+
+# Mac OS dosyaları
+.DS_Store
+
+# Vite cache (eğer Vite kullanıyorsan)
+.vite/
+
+# log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode ayarları (isteğe bağlı)
+.vscode/

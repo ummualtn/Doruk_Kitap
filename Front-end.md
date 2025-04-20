@@ -1,4 +1,4 @@
-##Taylan Karay Frontend
+## Taylan Karay Frontend
 ---
 1-Ürünleri Yönet 
 2-Ürün silme 
@@ -12,7 +12,7 @@
 10-Favori Ürünleri Görüntüle 
 11-Favori Ürün Sil 
 ---
-##Hakime Ümmü Altın Frontend
+## Hakime Ümmü Altın Frontend
 12-Sepete ekle
 13-Sepeti Görüntüle
 14-Sepetten Ürün Sil
@@ -24,7 +24,7 @@
 20-Okul Öncesi Kitapları
 21-Orta Okul Kitapları
 ---
-##Ceren Ögün Frontend
+## Ceren Ögün Frontend
 22-Hobi Oyunları
 23-Okuma Kitapları
 24-Deneme Sınavları

@@ -13,7 +13,7 @@ Kitap dünyasının kapılarını dijital ortama taşıyan Doruk Kitap, okurlar�
 **Proje Ekibi:** Hakime Ümmü ALTIN, Ceren ÖGÜN, Taylan KARAY
 
 **Uygulama Adresi:** 
-[dorukkitap.com](kitap-doruk.netlify.app)  
+[dorukkitap.com](https://kitap-doruk.netlify.app/)  
 
 1. [Gereksinim Analizi](GereksinimAnailiz.md)
 2. [Durum Diyagramı](DurumDiyagramı.png)
